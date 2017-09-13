@@ -45,6 +45,11 @@ App({
         },
 		ge : function(){
 			//葛壮壮
+		},
+		wudi : function(){
+			//打印
+			console.log(0)
+		}
       })
     }
   }
