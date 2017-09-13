@@ -44,12 +44,16 @@ App({
           callback(err)
         },
 		ge : function(){
+<<<<<<< HEAD
 			//葛壮壮
 		},
 		wudi : function(){
 			//打印
 			console.log(0)
 		}
+=======
+			//葛壮壮开的房间观看好的房间观看都是借口
+>>>>>>> origin/master
       })
     }
   }
